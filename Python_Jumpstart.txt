@@ -1,0 +1,51 @@
+Hi! For folks new to Python, I've assembled this list of resources that I found to be useful.
+
+When in doubt google and stackoverflow are your friends.
+
+Get the Software
+
+•	PyScripter - My favorite IDE so far. A good balance between overly complex and too barebones. Good for more complex projects.
+	o	https://code.google.com/p/pyscripter/
+•	Sublime Text 3 - My personal runner-up IDE. It is quite simple, which can be either refreshing and zenlike or feel unfurnished, depending on the scope of your project. I use this for smaller scripts.
+	o	http://www.sublimetext.com/3
+
+•	Download Python - Prefer 2.7 as it has the most compatiblity with third party modules, including ArcPy for GIS.
+	o	https://www.python.org/downloads/
+	
+
+Learn to code
+•	Great interactive primer on data structures, operations, functions, etc
+	o	http://www.codecademy.com/en/tracks/python
+
+•	Online book for useful automation programming 
+	o	http://automatetheboringstuff.com
+
+•	ArcPy intro course (free if you get a code from Erik)
+	o	http://training.esri.com/gateway/index.cfm?fa=catalog.webCourseDetail&courseid=2114
+
+•	ArcPy overview
+	o	http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//000v00000001000000
+
+Useful Modules
+•	Best way to download new modules: 
+	o	https://pip.pypa.io/en/latest/installing.html
+		?	Once PIP is set up, open windows command processor enter: cd C:/python27/scripts then enter :  pip install modulename
+		?	It will find the package & install it and it will be ready to use instantly
+
+•	Read, write Excel docs
+	o	http://www.python-excel.org/
+
+•	Make HTTP requests online
+	o	http://docs.python-requests.org/en/latest/
+
+•	Data visualization (requires NumPy module) A mainstay of scientific computing, and part of the SciPy package.
+	o	http://matplotlib.org/
+
+•	Print pretty tables in your IDE
+	o	https://code.google.com/p/prettytable/wiki/Tutorial
+
+
+
+Happy coding!!
+****************
+Zach Estela
