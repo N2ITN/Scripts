@@ -26,6 +26,9 @@ Learn to code
 •	ArcPy overview
 	o	http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//000v00000001000000
 
+•	Python Style Guide
+	o	http://legacy.python.org/dev/peps/pep-0008/
+
 Useful Modules
 •	Best way to download new modules: 
 	o	https://pip.pypa.io/en/latest/installing.html
@@ -46,6 +49,49 @@ Useful Modules
 
 
 
+
+
+
 Happy coding!!
 ****************
+
+
 Zach Estela
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
