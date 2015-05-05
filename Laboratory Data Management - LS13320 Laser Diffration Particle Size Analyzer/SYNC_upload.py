@@ -29,8 +29,7 @@ def rename(arg):
 		newname=  x[:-7]  + "data_" + x[-7:-2]+ "2015_" +  str(n) + 'samples'
 	print newname
 	print n
-	# exit()
-	# #### RENAME FOLDER????
+
 	print os.access(x,os.F_OK)
 
 
