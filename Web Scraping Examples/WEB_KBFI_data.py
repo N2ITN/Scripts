@@ -62,8 +62,9 @@ def KBFI(var):
 	linkPage3 = 'http://mesowest.utah.edu/cgi-bin/droman/meso_download_mesowest_ndb.cgi?product=&stn=KBFI&unit=0&time=LOCAL&daycalendar=1&day1='+DAY+'&month1='+MONTH+'&year1='+YEAR+'&yearcal='+YEAR+'&hour1=14&monthcal=04&hours='+ DAYS+ '&output=Excel&order=1&P24I=P24I'
 	#page with links to iterate on
 
-	user = 'ZESTELA'
-	password = 'Mastodon'
+	user = ''
+	password = ''
+	## Register for free MesoWest account to make this work
 
 	AUTH = user, password
 	URL = mainPage
