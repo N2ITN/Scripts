@@ -24,6 +24,8 @@ password = ''
 myFolder = r''
 # Location to download requested files
 
+ProjNum = ''
+# Project number
 ########################################
 
 
@@ -34,7 +36,7 @@ PayloadList = []
 
 mainPage = "https://labline.ctberk.com/app/PortalProjectMenu"
 #login page
-linkPage = ["https://labline.ctberk.com/app/PortalProject?projectnum=C1374"]
+linkPage = ["https://labline.ctberk.com/app/PortalProject?projectnum="] + ProjNum
 #page with links to iterate on
 
 
