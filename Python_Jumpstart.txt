@@ -3,13 +3,13 @@ List of useful resources for getting started with Python
 When in doubt, Google and StackOverflow are your friends.
 
 Download some open-source software
-•	Download Python - Prefer 2.7 as it has the most compatiblity with third party modules.
+•	Download Python - Prefer 2.7 as it has the most compatiblity with third party modules. Comes with IDLE, an minimalistic integrated development environment (IDE). Once python is installed, you can also run commands from Windows CMD or Linux/Unix Terminal by entering 'python'.
 	o	https://www.python.org/downloads/
 	
-•	Sublime Text 3 - My go-to IDE (integrated development environment). It is quite simple, which can be either refreshing and zenlike or feel unfurnished, depending on the scope of your project. Useful for scripting smaller scale tasks.
+•	Sublime Text 3 - My go-to IDE. It is quite simple, which can be either refreshing and zenlike or feel unfurnished, depending on the scope of your project. Useful for scripting smaller scale tasks.
 	o	http://www.sublimetext.com/3
 	
-•	Spyder - Great for scientific computing, and larger projects. Contains advanced features like automatic code completion, variable explorer, and comes loaded with numerical and scientific modules (Numpy, SciPy, IPython and more). Can weigh down system performance (particularly RAM).
+•	Spyder - An alternative IDE; great for scientific computing, and larger projects. Contains advanced features like automatic code completion, variable explorer, and comes loaded with numerical and scientific modules (Numpy, SciPy, IPython and more). Can weigh down system performance (particularly RAM).
 	o	https://pythonhosted.org/spyder/
 
 Learn to code in Python
