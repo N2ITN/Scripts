@@ -1,4 +1,4 @@
-List of useful resources for getting started wiht Python
+List of useful resources for getting started with Python
 
 When in doubt, Google and stackoverflow are your friends.
 
